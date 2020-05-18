@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9db5645e103a21cda1acc07b2451e09",
+    "revision": "f9808e9fbc2441c4014c282bb521f42d",
     "url": "/react-infinite-carousel-demo/index.html"
   },
   {
-    "revision": "acf93e14126ae00da995",
+    "revision": "7c8edb84c7a213d4d362",
     "url": "/react-infinite-carousel-demo/static/css/main.3604c995.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-infinite-carousel-demo/static/js/2.7e3d8ea2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "acf93e14126ae00da995",
-    "url": "/react-infinite-carousel-demo/static/js/main.4a549661.chunk.js"
+    "revision": "7c8edb84c7a213d4d362",
+    "url": "/react-infinite-carousel-demo/static/js/main.4ddbec50.chunk.js"
   },
   {
     "revision": "f22c5f38b47d6ecae6fa",
