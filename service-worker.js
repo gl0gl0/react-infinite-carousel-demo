@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-infinite-carousel-demo/precache-manifest.b5e01365ca457d7a852f36edfc18a8f9.js"
+  "/react-infinite-carousel-demo/precache-manifest.a8aaf198b1015f620274f3750deee283.js"
 );
 
 self.addEventListener('message', (event) => {
